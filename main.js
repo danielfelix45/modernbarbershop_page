@@ -1,4 +1,4 @@
-/* Abre efecha o menu quando clicar no icone: hamburguer e X */
+/* Abre e fecha o menu quando clicar no icone: hamburguer e X */
 const nav = document.querySelector('#header nav')
 const toggle = document.querySelectorAll('nav .toggle')
 
