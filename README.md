@@ -11,11 +11,11 @@
 </br>
 
 <p>
-<img src="assets/images/IMG_190843.PNG" width="100" />
-<img src="assets/images/IMG_190844.PNG" width="100" /> 
-<img src="assets/images/IMG_190845.PNG" width="100" />
-<img src="assets/images/IMG_190846.PNG" width="100" />
-<img src="assets/images/IMG_190847.PNG" width="100" />
+<img src="assets/fotos/IMG_190843.PNG" width="100" />
+<img src="assets/fotos/IMG_190844.PNG" width="100" /> 
+<img src="assets/fotos/IMG_190845.PNG" width="100" />
+<img src="assets/fotos/IMG_190846.PNG" width="100" />
+<img src="assets/fotos/IMG_190847.PNG" width="100" />
 </p>
 
 </br>
